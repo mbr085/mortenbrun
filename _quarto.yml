@@ -1,0 +1,9 @@
+project:
+  type: website
+
+website:
+  title: "Morten Brun"
+
+format:
+  html:
+    toc: false
