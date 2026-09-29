@@ -1,5 +1,6 @@
+_site/
+.quarto/
+.direnv/
+
 /.quarto/
 **/*.quarto_ipynb
-.direnv/
-.quarto/
-_site/
