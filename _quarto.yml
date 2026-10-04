@@ -3,6 +3,10 @@ project:
 
 website:
   title: "Morten Brun"
+  site-url: https://mortenbrun.xyz
+  search: false
+  back-to-top-navigation: true
+
   navbar:
     left:
       - href: index.qmd
@@ -15,7 +19,22 @@ website:
         text: Teaching
       - href: cv.qmd
         text: CV
+    right:
+      - icon: github
+        href: https://github.com/mbr085
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Morten Brun"
+    right: "[University of Bergen](https://www4.uib.no/en/find-employees/morten.brun) · [ORCID](https://orcid.org/0000-0003-2860-8272)"
 
 format:
   html:
+    theme:
+      light: cosmo
+      dark: darkly
+    respect-user-color-scheme: true
     toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    css: styles.css

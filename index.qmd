@@ -2,7 +2,10 @@
 title: "Morten Brun"
 ---
 
-I am a Professor of Mathematics at the [University of Bergen](https://www.uib.no/en).
+::: {.home-position}
+**Professor of Mathematics**  
+[University of Bergen](https://www.uib.no/en)
+:::
 
 My research is in algebraic topology and related areas of mathematics. Current interests include homotopy theory, combinatorial models for homotopy, and methods inspired by topological data analysis.
 
