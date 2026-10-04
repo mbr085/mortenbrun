@@ -2,4 +2,28 @@
 title: "Teaching"
 ---
 
-Teaching information coming soon.
+I have taught mathematics at university level for more than twenty years, at undergraduate, master's, and doctoral level. My teaching has covered a broad range of subjects, including algebra, topology, geometry, and discrete mathematics.
+
+## Current teaching
+
+In autumn 2026 I am teaching **MAT221 Discrete Mathematics** at the University of Bergen.
+
+The course covers topics including relations, combinatorics, elementary number theory, congruences, graph theory, and related discrete structures.
+
+## Teaching materials
+
+I develop teaching material alongside my courses, including lecture notes, exercises, and problem sheets. Where appropriate, I plan to make selected material available from this site.
+
+## Supervision
+
+I have supervised **nine completed master's students** and **three completed PhD students**.
+
+Of the PhD students, I was **main supervisor for two** and **co-supervisor for one**.
+
+My supervision has included projects in algebraic topology, topological data analysis, and related areas.
+
+## International teaching and collaboration
+
+I have also taught outside Norway. In October and November 2023 I gave lectures on **differential topology** at the University of Dar es Salaam in Tanzania.
+
+Through the MATH4SDG collaboration I co-supervised a Tanzanian PhD student, and I continue to collaborate with colleagues at the University of Dar es Salaam on topological data analysis.

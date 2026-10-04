@@ -1,5 +1,51 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-Curriculum vitae coming soon.
+## Current position
+
+**Professor of Mathematics**, University of Bergen, Norway  
+since October 2025
+
+[University of Bergen profile](https://www4.uib.no/en/find-employees/morten.brun)  
+ORCID: [0000-0003-2860-8272](https://orcid.org/0000-0003-2860-8272)
+
+## Education
+
+**PhD in Mathematics**, University of Aarhus, Denmark, 1998.
+
+## Academic positions
+
+- **Professor**, University of Bergen, Norway, October 2025–present
+- **Associate Professor**, University of Bergen, Norway, 2008–October 2025
+- **Postdoctoral Fellow**, University of Bergen, Norway, 2005–2008
+- **Postdoctoral Fellow**, University of Osnabrück, Germany, 2000–2005
+- **Postdoctoral Fellow**, University of Strasbourg, France, 2000
+- **Postdoctoral Fellow**, University of Bielefeld, Germany, 1998–2000
+- **PhD student**, University of Aarhus, Denmark, 1994–1998
+
+## Research
+
+My research lies at the intersection of algebraic topology, homotopy theory, combinatorial topology, and topological data analysis. Current interests include combinatorial models for homotopy theory, multiparameter persistence, and density-aware topological methods.
+
+See the [Research](research.qmd) and [Publications](publications.qmd) pages for more information.
+
+## Supervision and mentoring
+
+I have supervised **nine completed master's students** and **three completed PhD students**.
+
+At the University of Bergen, I have been main supervisor for seven master's students and two PhD students. At the University of Dar es Salaam, I have co-supervised two master's students and one PhD student.
+
+I have also mentored a postdoctoral fellow, Nello Blaser, now professor in the Department of Informatics at the University of Bergen.
+
+## Teaching and international collaboration
+
+I have taught mathematics at undergraduate, master's, and PhD level for more than twenty years.
+
+In 2023 I taught differential topology at the University of Dar es Salaam. I have participated in the **Mathematics for Sustainable Development (MATH4SDG)** collaboration between the University of Bergen, the University of Dar es Salaam, and Makerere University, and I continue to collaborate with colleagues in Tanzania on topological data analysis.
+
+See the [Teaching](teaching.qmd) page for more information.
+
+## Professional service
+
+- Faculty board member, Faculty of Mathematics and Natural Sciences, University of Bergen, 2022–2026

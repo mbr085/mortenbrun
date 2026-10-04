@@ -2,4 +2,28 @@
 title: "Research"
 ---
 
-Research overview coming soon.
+My research lies at the intersection of algebraic topology, homotopy theory, and topological data analysis. I am particularly interested in combinatorial models that retain homotopical information while remaining computationally accessible, and in multiparameter constructions that capture geometric and density-dependent structure in data.
+
+## Topological data analysis
+
+Topological data analysis uses ideas from topology to study the shape and structure of data. Much of my current work concerns persistent and multiparameter methods, with an emphasis on constructions that preserve more of the underlying topological and homotopical information than ordinary persistent homology.
+
+Recent work includes multiparameter filtrations for weighted directed networks and other structures where several measurements or notions of scale occur simultaneously.
+
+## Combinatorial models for homotopy theory
+
+I study finite and combinatorial models for homotopy-theoretic constructions. A central question is how homotopy information can be represented using discrete objects such as partially ordered sets, graphs, simplicial complexes, and simplicial sets, while keeping the resulting constructions mathematically meaningful and computationally feasible.
+
+One current direction is to develop persistent homotopy invariants from finite combinatorial mapping objects, and to understand how subdivision and approximation can make such invariants computable.
+
+## Compression and representation of multipersistence
+
+Multiparameter persistence contains substantially more information than ordinary one-parameter persistence, but this also makes its invariants large and difficult to compute or represent. I am interested in methods for compressing, simplifying, and representing multipersistent information while retaining the features relevant for comparison and analysis.
+
+This includes studying smaller combinatorial representatives of large bifiltrations and ways of organizing the information they contain so that computations remain feasible.
+
+## Density-sensitive and density-aware bifiltrations
+
+Many data sets are sampled non-uniformly, so geometric scale alone may not give an adequate description of their structure. I study bifiltrations that combine geometric information with local density, with the aim of constructing topological summaries that respond naturally to variations in sampling density.
+
+One example is the core bifiltration, developed as a density-sensitive alternative for studying noisy point-cloud data, together with its smaller Delaunay version.

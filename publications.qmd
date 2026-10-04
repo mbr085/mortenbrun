@@ -1,5 +1,18 @@
 ---
 title: "Publications"
+bibliography: publications.bib
+nocite: |
+  @*
 ---
 
-Publication list coming soon.
+The list below contains journal articles and proceedings papers. Additional publication information is available on my [University of Bergen profile](https://www4.uib.no/en/find-employees/morten.brun) and through [ORCID](https://orcid.org/0000-0003-2860-8272).
+
+## Journal articles and proceedings papers
+
+::: {#refs}
+:::
+
+## Selected preprints
+
+- M. Brun and D. Grinberg. *The Dowker theorem via discrete Morse theory*. Preprint (2024), [arXiv:2407.15454](https://arxiv.org/abs/2407.15454).
+- M. Brun, M. G. Fosse and L. M. Salbu. *Dowker Duality for Relations of Categories*. Preprint (2023), [arXiv:2303.16032](https://arxiv.org/abs/2303.16032).
